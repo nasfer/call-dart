@@ -1,0 +1,17 @@
+void  main(){
+  
+  
+  //criar uma instancia   nome da instancia   criar objeto
+  BuscarAlunos buscarAlunos = BuscarAlunos();
+  BuscarAlunos();
+  
+  
+  
+}
+
+
+class BuscarAlunos {
+  
+  void call()=> print('wander, paulo, pedro');
+  
+}
